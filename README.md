@@ -1,6 +1,6 @@
 ## Welcome to the **FACE**: **F**ully-**A**utomated **C**ondylar Remodeling **E**valuation ! ;-)
 
-by [Wei Jia](https://github.com/hahahajiawei)\*,[Han Wu](https://hanwu.website/)\,  Lanzhuju Mei, Jiamin Woo, Minjiao Wang<sup>+</sup> and [Zhiming Cui](https://shanghaitech-impact.github.io/)<sup>+</sup>
+by [Wei Jia](https://github.com/WeiJiaFiona)\,[Han Wu](https://hanwu.website/)\,  Lanzhuju Mei, Jiamin Woo, Minjiao Wang<sup>+</sup> and [Zhiming Cui](https://shanghaitech-impact.github.io/)<sup>+</sup>
 
 [[Project Page](https://github.com/hahahajiawei/FACE_Fully-automated-Condylar-remodeling-Evaluation.git)]
 
@@ -91,5 +91,5 @@ cd code
 
 ![comparison](figs\comparison.png "comparison table")
 
-![results](figs\results_1.png "results table")"# JoD_Fully_Automated_Condylar_Remodeling_Evaluation" 
+![results](figs\results_1.png "results table")"
 
