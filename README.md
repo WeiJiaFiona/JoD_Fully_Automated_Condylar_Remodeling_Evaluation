@@ -53,19 +53,21 @@ cd code
 * **Data Preparation**
   * Put your dataset into the folder 'data'. 
   * The data names should be formulated into
-    
-    1/
-    ├── T1_img.nii.gz
-    
-    ├── T2_img.nii.gz
-    
-    2/
-    
-    ├── T1_img.nii.gz
-    
-    ├── T2_img.nii.gz
-    
-    .../
+
+    nnUNet_raw/Dataset002_Heart/
+    ├── dataset.json
+    ├── imagesTr
+    │   ├── la_003_0000.nii.gz
+    │   ├── la_004_0000.nii.gz
+    │   ├── ...
+    ├── imagesTs
+    │   ├── la_001_0000.nii.gz
+    │   ├── la_002_0000.nii.gz
+    │   ├── ...
+    └── labelsTr
+        ├── la_003.nii.gz
+        ├── la_004.nii.gz
+        ├── ...
     
 * **Condylar remodeling evaluation**
   * Landmark inference
