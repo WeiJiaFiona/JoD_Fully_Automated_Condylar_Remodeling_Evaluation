@@ -52,7 +52,8 @@ cd code
 
 * **Data Preparation**
   * Put your dataset into the folder 'data'. 
-  * The data names should be formulated into 
+  * The data names should be formulated into
+    
     |---ID = 1,2,3,4 ...
     
         |---T1_img.nii.gz
