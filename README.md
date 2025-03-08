@@ -53,6 +53,7 @@ cd code
 * **Data Preparation**
   * Put your dataset into the folder 'data'. 
   * The data names should be formulated into
+    
     1/
     ├── T1_img.nii.gz
     ├── T2_img.nii.gz
@@ -60,6 +61,7 @@ cd code
     ├── T1_img.nii.gz
     ├── T2_img.nii.gz
     .../
+    
 * **Condylar remodeling evaluation**
   * Landmark inference
 
