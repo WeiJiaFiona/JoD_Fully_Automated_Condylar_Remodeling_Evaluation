@@ -53,6 +53,7 @@ cd code
 * **Data Preparation**
   * Put your dataset into the folder 'data'. 
   * The data names should be formulated into
+    
 
     nnUNet_raw/Dataset002_Heart/
     ├── dataset.json
@@ -68,7 +69,8 @@ cd code
         ├── la_003.nii.gz
         ├── la_004.nii.gz
         ├── ...
-    
+
+       
 * **Condylar remodeling evaluation**
   * Landmark inference
 
