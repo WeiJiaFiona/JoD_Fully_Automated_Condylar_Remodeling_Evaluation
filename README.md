@@ -45,7 +45,7 @@ by [Wei Jia](https://github.com/WeiJiaFiona)\,[Han Wu](https://hanwu.website/)\,
 Run the following command to install the required packages:
 
 ```
-git clone https://github.com/hahahajiawei/FACE-Fully-automated-Condylar-remodeling-Evaluation.git
+git clone https://github.com/WeiJiaFiona/JoD_Fully_Automated_Condylar_Remodeling_Evaluation.git
 conda env create -f FACE_environment.yaml
 cd code
 ```
@@ -53,9 +53,9 @@ cd code
 * **Data Preparation**
   * Put your dataset into the folder 'data'. 
   * The data names should be formulated into 
-      * ```f"{patient ID}_{phase}_img.nii.gz"```
-      * ```ID = 1,2,3,4 ...```
-      * ```phase = T1,T2 (pre and post operation) ...```
+    |---ID = 1,2,3,4 ...
+        |---T1_img.nii.gz
+        |---T2_img.nii.gz
 
 
 * **Condylar remodeling evaluation**
@@ -91,5 +91,5 @@ cd code
 
 ![comparison](figs\comparison.png "comparison table")
 
-![results](figs\results_1.png "results table")"
+![results](figs\results_1.png "results table")
 
