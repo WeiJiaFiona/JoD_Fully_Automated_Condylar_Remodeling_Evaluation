@@ -56,10 +56,15 @@ cd code
     
     1/
     ├── T1_img.nii.gz
+    
     ├── T2_img.nii.gz
+    
     2/
+    
     ├── T1_img.nii.gz
+    
     ├── T2_img.nii.gz
+    
     .../
     
 * **Condylar remodeling evaluation**
