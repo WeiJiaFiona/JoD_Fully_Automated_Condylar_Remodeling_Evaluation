@@ -53,7 +53,7 @@ cd code
 * **Data Preparation**
   * Put your dataset into the folder 'data'. 
   * The data names should be formulated into
-    
+    ```
     code/data/
     ├── 1
     │   ├── T1_img.nii.gz
@@ -66,7 +66,7 @@ cd code
         ├── heapmap
         ├── distance_changes.json
         └──volume_changes.json
-
+   ```
        
 * **Condylar remodeling evaluation**
   * Landmark inference
