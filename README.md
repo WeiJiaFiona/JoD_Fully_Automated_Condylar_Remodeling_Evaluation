@@ -67,7 +67,7 @@ cd code
         ├── distance_changes.json
         └──volume_changes.json
    ```
-       
+   
 * **Condylar remodeling evaluation**
   * Landmark inference
 
