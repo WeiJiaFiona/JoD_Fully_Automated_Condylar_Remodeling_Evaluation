@@ -67,14 +67,13 @@ cd code
         ├── distance_changes.json
         └──volume_changes.json
    ```
-   
 * **Condylar remodeling evaluation**
   * Landmark inference
 
     ```
     python two_stage_keypoint_detection.py
     ```
-  * Mandible segemntation 
+  * Mandible segmentation 
     ```
     python two_stage_bone_segmentation.py
     ```
@@ -83,7 +82,7 @@ cd code
     python crop.py
     ```
 
-  * apply ICP registration to transfer mesh
+  * apply ICP registration to transfer mesh into the same perspective
     ```
     python ICP regist.py
     ```
