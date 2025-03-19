@@ -87,7 +87,7 @@ def crop_3d_centroid_move(img, centroid, patch_size):
     
     return pad_img
 
-# 好的，你需要将这个这个经过预处理后的，已经转换成target size和target spacing的图像保存为nii.gz文件，以确保img的坐标系和预测出来的关键点的坐标系是对应的
+
 def keypoint_detection(path1, path2, img_path, out_path, normalize=(0, 2500)):
     
     # stage 1 for plane points
