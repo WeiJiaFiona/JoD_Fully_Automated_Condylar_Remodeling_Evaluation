@@ -52,7 +52,7 @@ cd code
 
 * **Data Preparation**
   * Put your dataset into the folder 'data'. 
-  * The data names should be formulated into
+  * The data structure should be formulated into
     ```
     code/data/
     ├── 1
@@ -92,7 +92,7 @@ cd code
     python evaluation\volume_change.py
     ```
 
-* **Evaluation process and resolts**
+* **Evaluation process and results**
   * the data generated during evaluation is saved to ```code\data\{ID}```
   * the evaluation results is in file ```code\data\evaluation```
 
