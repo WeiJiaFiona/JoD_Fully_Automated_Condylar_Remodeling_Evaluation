@@ -94,7 +94,7 @@ cd code
 
 * **Evaluation process and results**
   * the data generated during evaluation is saved to ```code\data\{ID}```
-  * the evaluation results is in file ```code\data\evaluation```
+  * the evaluation results are stored in file ```code\data\evaluation```
 
 #### 3. Some results on test set
 
