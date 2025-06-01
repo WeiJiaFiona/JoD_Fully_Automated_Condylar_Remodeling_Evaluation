@@ -3,7 +3,7 @@
 by [Wei Jia](https://github.com/WeiJiaFiona)\,[Han Wu](https://hanwu.website/)\,  Lanzhuju Mei, Jiamin Woo, Minjiao Wang<sup>+</sup> and [Zhiming Cui](https://shanghaitech-impact.github.io/)<sup>+</sup>
 
 [[Project Page](https://github.com/WeiJiaFiona/JoD_Fully_Automated_Condylar_Remodeling_Evaluation.git)]
-
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0300571225002635)]
 
 
 #### 1. What is condylar remodeling ?
